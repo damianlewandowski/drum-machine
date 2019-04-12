@@ -1,0 +1,3 @@
+export const CHANGE_SOUND = "CHANGE_SOUND";
+export const CHANGE_STATUS = "CHANGE_STATUS";
+export const CHANGE_VOLUME = "CHANGE_VOLUME";
